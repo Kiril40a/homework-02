@@ -62,6 +62,7 @@ body {
     letter-spacing: 0.02em;
 }
 .main-button {
+    font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
     color: white;
     font-weight: 500;font-size: 16px;line-height: 150%;
