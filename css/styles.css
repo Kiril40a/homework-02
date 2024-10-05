@@ -35,11 +35,15 @@ body {
 .menu_link:focus {
     color: #404BBF;
 }
+.contacts {
+    font-style: normal
+}
 .contacts_link {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 150%;
+    letter-spacing: 0.02em
 }
 .contacts_link:hover,
 .contacts_link:focus {
