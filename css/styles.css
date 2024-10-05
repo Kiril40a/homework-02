@@ -30,6 +30,7 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
+    letter-spacing: 0.02em;
 }
 .menu_link:hover,
 .menu_link:focus {
@@ -86,6 +87,8 @@ body {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .team-section_card_title {
@@ -94,7 +97,8 @@ body {
     line-height: 120%;
 }
 .team-section_card_text {
-    font-size: 14px;
+    font-size: 16px;
+    letter-spacing: 0.02em;
     font-weight: 600;
     line-height: 150%;
     color: #434455;
