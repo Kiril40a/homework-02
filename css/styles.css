@@ -159,3 +159,10 @@ body {
 .foot {
     background-color: #2e2f42;
 }
+.foot_studio {
+    color: #f4f4fd;
+}
+.foot_text {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
