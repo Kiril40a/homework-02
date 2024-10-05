@@ -146,5 +146,8 @@ body {
     text-align: center;
     text-transform: capitalize;
     letter-spacing: 0.02em;
-    color: #ffffff;
+    letter-spacing: 0.02em;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 120%;
 }
