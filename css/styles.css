@@ -86,7 +86,8 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
-.section_title {
+.team-section_title,
+.section-portfolio_title {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
