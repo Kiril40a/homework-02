@@ -6,9 +6,97 @@ ul {
     list-style: none;
 }
 
-
 body {
-    font-family: roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
 }
 
+.head {
 
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 117%;
+}
+.web {
+    color: #4D5AE5;
+}
+.menu_link {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+}
+.menu_link:hover,
+.menu_link:focus {
+    color: #404BBF;
+}
+.contacts_link {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+}
+.contacts_link:hover,
+.contacts_link:focus {
+    color: #404BBF;
+}
+
+.first-section {
+    background-color: #2E2F42;
+}
+.main-title {
+    color: white;
+    line-height: 107%;
+    font-size: 56px;
+    font-weight: 700;
+}
+.main-button {
+    background-color: #4D5AE5;
+    color: white;
+    font-weight: 500;font-size: 16px;line-height: 150%;
+}
+.second-section_card_title {
+    font-size: 20px;
+    line-height: 120%;
+}
+.second-section_card_text {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+}
+.section_title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+}
+
+.team-section_card_title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+}
+.team-section_card_text {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 150%;
+    color: #434455;
+}
+
+.second-section_card_title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+}
+.second-section_card_text {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 150%;
+}
+.foot_text {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 150%;
+}
