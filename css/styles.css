@@ -90,13 +90,14 @@ body {
 .team-section {
     background-color: #F4F4FD;
 }
-.section_title,
-.section-portfolio_title {
+.section_title {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .team-section_card_title {
