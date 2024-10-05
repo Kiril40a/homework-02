@@ -54,11 +54,19 @@ body {
     line-height: 107%;
     font-size: 56px;
     font-weight: 700;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 .main-button {
     background-color: #4D5AE5;
     color: white;
     font-weight: 500;font-size: 16px;line-height: 150%;
+    letter-spacing: 0.04em;
+    cursor: pointer
+}
+.main-button:hover,
+.main-button:focus {
+    background-color: #404BBF;
 }
 .second-section_card_title {
     font-size: 20px;
