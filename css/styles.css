@@ -90,6 +90,9 @@ body {
 .team-section {
     background-color: #F4F4FD;
 }
+.team-section_card {
+    background-color: #FFFFFF;
+}
 .section_title {
     font-weight: 700;
     font-size: 36px;
