@@ -25,6 +25,9 @@ body {
 .studio {
     color: #2e2f42;
 }
+.menu_item {
+    letter-spacing: 0.02em;
+}
 .menu_link {
     color: #2E2F42;
     font-weight: 500;
